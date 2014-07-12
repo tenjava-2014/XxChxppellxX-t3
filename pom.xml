@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tenjava.entries.XxChxppellxX.t2</groupId> <!-- you're welcome to change this -->
-	<artifactId>XxChxppellxX-t2</artifactId>
+	<artifactId>XxChxppellxX-t3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ten.java 2014 July</name>
 	<description>Contest entry for ten.java 2014 July</description>
