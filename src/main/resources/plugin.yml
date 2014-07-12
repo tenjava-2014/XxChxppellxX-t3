@@ -1,3 +1,4 @@
 name: XxChxppellxX-t3
-main: com.tenjava.entries.XxChxppellxX.t2.TenJava
+author: XxChxppellxX
+main: com.tenjava.entries.XxChxppellxX.t3.Main
 version: '${project.version}'
